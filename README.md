@@ -1,4 +1,3 @@
 # Product Analysis
 
-This application is for product anlysis by searchign products onlin and cloning it to the local DB. This will help the user 
-to sort the product based on price. 
+This application does crawling of different products and helps a customer analyse products data. Functionalities such as sorting of products based on price is also provided.
